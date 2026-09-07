@@ -68,5 +68,5 @@ training a model from scratch.
 The component can be used as part of the overall Social Media
 Sentiment Dashboard.
 
-## Project Files
+
 
